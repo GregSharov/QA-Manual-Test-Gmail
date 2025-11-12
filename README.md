@@ -1,6 +1,6 @@
 # QA Manual Testing – Gmail Web Application
 
-This repository contains **manual QA documentation** prepared during my software testing course at **Ashkelon Academic College (April 2025)**.  
+This repository contains **manual QA documentation** prepared during my software testing course at **Ashkelon Academic College (2025)**.  
 The tested system was **Google Gmail**, and all test artifacts were created and executed manually to simulate a real-world testing process.
 
 ---
